@@ -8,7 +8,7 @@ this is the final build! it was one of my first soldering experiences but it tur
 
 <img width="500" height="auto" alt="Screenshot 2026-04-23 tod" src="https://github.com/katetriestocode/Blinkyboard/blob/main/media/blink.gif?raw=true">
 
-<img width="500" height="auto" alt="Screenshot 2026-04-23 2232" src="https://github.com/katetriestocode/Blinkyboard/blob/main/media/build.png?raw=true">
+<img width="500" height="auto" alt="Screenshot 2026-04-23 2232" src="https://github.com/katetriestocode/Blinkyboard/blob/main/media/pic.png?raw=true">
 
 this is the render:
 
