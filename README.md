@@ -6,7 +6,7 @@ this has: 10 leds, a ne555p, and a cd4017 :D
 
 this is the final build! it was one of my first soldering experiences but it turned out great!
 
-<img width="500" height="auto" alt="Screenshot 2026-04-23 tod" src="https://github.com/katetriestocode/Blinkyboard/blob/main/media/blinking.png?raw=true">
+<img width="500" height="auto" alt="Screenshot 2026-04-23 tod" src="https://github.com/katetriestocode/Blinkyboard/blob/main/media/blink.gif?raw=true">
 
 <img width="500" height="auto" alt="Screenshot 2026-04-23 2232" src="https://github.com/katetriestocode/Blinkyboard/blob/main/media/build.png?raw=true">
 
