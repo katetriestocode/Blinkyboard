@@ -5,11 +5,9 @@ following hackclub starter project blinky board! shaped like a flower and smells
 this has: 10 leds, a ne555p, and a cd4017 :D
 
 this is the final build! it was one of my first soldering experiences but it turned out great!
-[
-<img width="400" height="auto" alt="IMG_9589" src="https://github.com/user-attachments/assets/b1527c0f-c568-40b1-a8de-fff96527147e" />
-<img width="300" height="auto" alt="IMG_9591" src="https://github.com/user-attachments/assets/8753d903-ec15-4993-94ba-5d5d574a751f" />
 
-
+<img width="500" height="auto" alt="Screenshot 2026-04-23 223228l" src="https://github.com/katetriestocode/Blinkyboard/blob/main/media/blinking.jpg?raw=true">
+<img width="500" height="auto" alt="Screenshot 2026-04-23 223228l" src="https://github.com/katetriestocode/Blinkyboard/blob/main/media/built.jpg?raw=true">
 
 this is the render:
 
